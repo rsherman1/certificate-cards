@@ -49,12 +49,20 @@ body {
 .front{
     background: darkred;
     font-family: Helvetica, sans-serif;
+
+    h2, h3, p {
+        color: white;
+    }
     
 }
 
 .back {
     background: black;
     font-family: Helvetica, sans-serif;
+
+    h2, h3, p {
+        color: white;
+    }
 
     /* flip it default   */
     transform: rotateY(180deg);
