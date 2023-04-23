@@ -46,12 +46,13 @@ body {
     backface-visibility: hidden;
 }
 
-.front {
+.front face{
     background: darkred;
+    
 }
 
 .back {
-    background: cornflowerblue;
+    background: black;
     /* flip it default   */
     transform: rotateY(180deg);
 }
