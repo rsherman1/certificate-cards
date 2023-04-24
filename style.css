@@ -76,7 +76,7 @@ body h1 {
 }
 
 .back {
-    background: lightgray;
+    background: black;
     font-family: Helvetica, sans-serif;
     /* flip it default   */
     transform: rotateY(180deg);
