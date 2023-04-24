@@ -9,6 +9,12 @@ body {
     height: 100vh;
 }
 
+#intro {
+    background-color: black;
+    height: 50px;
+    background-size: cover;
+}
+
 body h1 {
     font-family: Helvetica, sans-serif;
     color: darkred;
