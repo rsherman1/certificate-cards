@@ -9,7 +9,7 @@ body {
     height: 100vh;
 }
 
-#intro {
+header {
     background-color: black;
     height: 50px;
     background-size: cover;
