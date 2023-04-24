@@ -11,6 +11,7 @@ body {
 
 header {
     background-color: black;
+    justify-content: center;
     height: 50px;
     background-size: cover;
 }
