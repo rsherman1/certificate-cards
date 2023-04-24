@@ -79,8 +79,3 @@ body {
 .flipped {
     transform: rotateY(180deg);
 }
-
-main {
-    background-image: url(campus.jpg);
-    background-size: cover;
-}
