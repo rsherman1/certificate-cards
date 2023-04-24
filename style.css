@@ -9,6 +9,11 @@ body {
     height: 100vh;
 }
 
+body h1 {
+    font-family: Helvetica, sans-serif;
+    color: darkred;
+}
+
 
 /* scene */
 .scene {
