@@ -6,6 +6,10 @@
 
 Promotional site to showcase Dept of Design Certificates. 
 
+## Art Direction
+
+Utlizes EWU colors for cards, with background showcasing the U. District Gateway Bridge. 
+
 ## Why Does This Exist?
 - Standalone site to showcase certificates
 - Promote current and future Dept of Design Certificates
