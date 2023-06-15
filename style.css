@@ -9,11 +9,6 @@ body {
     height: 100vh;
 }
 
-header {
-    background-color: black;
-    justify-content: center;
-    height: 50px;
-}
 
 body h1 {
     font-family: Helvetica, sans-serif;
